@@ -1,0 +1,16 @@
+{
+    "pages": [
+       {
+          "name": "Document #1",
+          "uri": "https://github.com/Yohanson555/docs/blob/master/doc1.md"
+       },
+       {
+          "name": "Document #2",
+          "uri": "https://github.com/Yohanson555/docs/blob/master/doc2.md"
+       },
+       {
+          "name": "Document #3",
+          "uri": "https://github.com/Yohanson555/docs/blob/master/doc3.md"
+       }
+    ]
+ }
